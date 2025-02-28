@@ -32,7 +32,9 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        justifyContent: center
+        display: flex
+        flexDirection: row
+        alignItems: flex-start
       title:
         textAlign: left
       subtitle:

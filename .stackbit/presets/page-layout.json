@@ -58,10 +58,9 @@
                 "sections": [
                     {
                         "type": "HeroSection",
-                        "colors": "colors-f",
-                        "title": "I'm a developer, digital artist, consultant and a bunch of other impressive titles and buzz words.",
-                        "subtitle": "This is my info — I'm sharing it all this with ya'll to impress you with all the hard work I've done in the past few years. Once you're impressed, you can continue to scroll down to see more details and credentials about me.",
-                        "actions": [],
+                        "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
+                        "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
+                        "colors": "colors-f","actions": [],
                         "media": null,
                         "backgroundSize": "full",
                         "styles": {
@@ -258,8 +257,8 @@
                     {
                         "type": "HeroSection",
                         "colors": "colors-f",
-                        "title": "I'm a developer, digital artist, consultant and a bunch of other impressive titles and buzz words.",
-                        "subtitle": "This is my info — I'm sharing it all this with ya'll to impress you with all the hard work I've done in the past few years. Once you're impressed, you can continue to scroll down to see more details and credentials about me.",
+                        "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
+                        "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
                         "actions": [],
                         "media": {
                             "type": "ImageBlock",
