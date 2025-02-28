@@ -45,7 +45,7 @@
                 "text": null,
                 "media": {
                     "type": "ImageBlock",
-                    "url": "/images/about.jpg",
+                    "url": "/images/about.png",
                     "altText": "Hero image"
                 },
                 "actions": [
@@ -95,7 +95,7 @@
                 "text": null,
                 "media": {
                     "type": "ImageBlock",
-                    "url": "/images/about.jpg",
+                    "url": "/images/about.png",
                     "altText": "Hero image"
                 },
                 "actions": [
