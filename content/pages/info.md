@@ -3,8 +3,7 @@ type: PageLayout
 title: About
 colors: colors-a
 backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
+  type: Colour
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,13 +13,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ##Welcome to my portfolio! I’m a passionate software developer and entrepreneur, specializing in web and full-stack development. I have a strong interest in cloud services, which I study and explore continuously to enhance my skills in building scalable, high-performing applications. As an entrepreneur, I enjoy taking on diverse projects and delivering successful solutions. With a commitment to continuous learning and excellence, I’m eager to collaborate and take on new challenges. Feel free to explore my work and get in touch!
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/about.png
       altText: Hero image
     styles:
       self:
@@ -124,15 +120,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/Jonroi'
         styles:
           self:
             textAlign: left
@@ -140,31 +128,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.linkedin.com/in/joni-roine/'
         styles:
           self:
             textAlign: left
@@ -207,21 +171,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Nest.js
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Directus CMS
       - type: Label
-        label: Pancakes
+        label: AWS
+      - type: Label 
+        label: Docker
       - type: Label
-        label: C++
+        label: Python
       - type: Label
-        label: Swift
+        label: C#
   - type: DividerSection
     styles:
       self:
@@ -239,7 +203,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [joni.roine@outlook.com](mailto:joni.roine@outlook.com)
   - type: DividerSection
     styles:
       self:
@@ -258,25 +222,16 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-          **Current**
+         **Current**  
 
-          * freelance @freelance.me
+            * Lead Website Developer @ Psyche’s Royal Gaming
+                *	Managing a team of 10+ web developers in a large-scale project with over 60 participants.
+                *	Overseeing project coordination, ensuring efficient workflows, and aligning development with business goals.
+          
 
-          **2018-2021**
 
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+            * Entrepreneur & Freelance Developer  
+                *   LLM coding tasks via Outlier platform 
         styles:
           self:
             textAlign: left
@@ -288,17 +243,16 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **On going**
+          * Graduating as a Software Developer in December 2025 @ Salo Region Vocational School.
+          
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          **Completed**
 
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          * Coursera AWS Fundamentals (Technical Essentials, Migration, and Architecting Solutions).
+          
+          * Coursera Nest.js Fundamentals.
         styles:
           self:
             textAlign: left
