@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Joni",
+    "lastName": "Roine",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
+        "url": "/images/about.png",
+        "altText": "Joni Roine photo"
     }
 }
