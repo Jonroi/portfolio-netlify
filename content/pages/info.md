@@ -13,7 +13,22 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ##Welcome to my portfolio! I’m a passionate software developer and entrepreneur, specializing in web and full-stack development. I have a strong interest in cloud services, which I study and explore continuously to enhance my skills in building scalable, high-performing applications. As an entrepreneur, I enjoy taking on diverse projects and delivering successful solutions. With a commitment to continuous learning and excellence, I’m eager to collaborate and take on new challenges. Feel free to explore my work and get in touch!
+        ## Welcome to my portfolio!
+
+        I am a dedicated software developer and entrepreneur, having transitioned into the tech field driven by a lifelong ambition to master software development. With a strong work ethic, adaptability, and a passion for problem-solving, I approach every project with enthusiasm and a commitment to excellence. My goal is to continuously expand my skill set and become a leading expert in software development.
+
+
+        Whether working as a freelancer or leading a team, I thrive on tackling diverse projects, managing large-scale development, and delivering solutions that meet client expectations. Over the years, I have worked across various industries, building custom web applications, scalable systems, and tailored software solutions. In addition to my freelance work, I lead a team of developers for a large-scale project at Psyche's Royal Gaming, where I oversee coordination and ensure that the development aligns with business objectives.
+
+
+        I specialize in technologies like React, Next.js, Typescript, Nest.js, and AWS, focusing on building scalable, high-performance applications. My freelance experience has enhanced my skills in prompt engineering, LLM performance optimization, and project management using GitHub. I continue to expand my knowledge in areas like Python, SQL, Docker, and cloud technologies, staying ahead of industry trends.
+
+
+        Currently, I am studying web development at Salo Region Vocational School with a focus on JavaScript-based frameworks and full-stack development. Additionally, I am pursuing online certificates in AWS Cloud Solutions Architecture and Nest.js to further deepen my expertise and practical skills. I am particularly interested in web, data, and cloud development and look forward to new opportunities in these areas.
+
+
+        Feel free to explore my portfolio to see the projects I’ve worked on, and don't hesitate to reach out if you are interested in collaborating or discussing potential opportunities!
+
     media:
       type: ImageBlock
       url: /images/about.png
