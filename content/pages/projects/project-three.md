@@ -1,11 +1,13 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: PRG WEB PROJECT
 colors: colors-a
-date: '2022-01-22'
+date: '2024-05-06'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  PRG ALT Zone 1.0 is a mobile game exploring human defense mechanisms in social interactions, developed with young gaming enthusiasts and accompanied by an educational package.
+
+  As a web developer, I was excited to contribute to this unique fusion of gaming, art, and education!
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
