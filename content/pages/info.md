@@ -13,21 +13,27 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-        ## Welcome to my portfolio!
+      ## Welcome to my portfolio!
 
-        I am a dedicated software developer and entrepreneur, having transitioned into the tech field driven by a lifelong ambition to master software development. With a strong work ethic, adaptability, and a passion for problem-solving, I approach every project with enthusiasm and a commitment to excellence. My goal is to continuously expand my skill set and become a leading expert in software development.
-
-
-        Whether working as a freelancer or leading a team, I thrive on tackling diverse projects, managing large-scale development, and delivering solutions that meet client expectations. Over the years, I have worked across various industries, building custom web applications, scalable systems, and tailored software solutions. In addition to my freelance work, I lead a team of developers for a large-scale project at Psyche's Royal Gaming, where I oversee coordination and ensure that the development aligns with business objectives.
+      I am a dedicated software developer and entrepreneur with a strong background in full-stack development and a growing specialization in AI technologies. My journey into tech is driven by a lifelong ambition to master software development and create intelligent, scalable solutions that make a real-world impact.
 
 
-        I specialize in technologies like React, Next.js, Typescript, Nest.js, and AWS, focusing on building scalable, high-performance applications. My freelance experience has enhanced my skills in prompt engineering, LLM performance optimization, and project management using GitHub. I continue to expand my knowledge in areas like Python, SQL, Docker, and cloud technologies, staying ahead of industry trends.
+      I thrive both as a freelancer and in leadership roles, having worked across industries to build custom web applications, cloud-integrated systems, and tailored software platforms. I currently lead a team of developers at Psyche's Royal Gaming, overseeing the development of a large-scale project and ensuring technical alignment with business goals.
 
 
-        Currently, I am studying web development at Salo Region Vocational School with a focus on JavaScript-based frameworks and full-stack development. Additionally, I am pursuing online certificates in AWS Cloud Solutions Architecture and Nest.js to further deepen my expertise and practical skills. I am particularly interested in web, data, and cloud development and look forward to new opportunities in these areas.
+      In my current role as a Prompt Engineer at Outlier, I design, test, and optimize JavaScript-based prompts for generative AI applications. My work focuses on building efficient, accurate, and adaptable AI systems for real-world use cases, with an emphasis on LLM performance and prompt architecture.
 
 
-        Feel free to explore my portfolio to see the projects I’ve worked on, and don't hesitate to reach out if you are interested in collaborating or discussing potential opportunities!
+      Technically, I specialize in React, Next.js, TypeScript, Nest.js, and AWS. I’m also expanding my skills in Python, SQL, Docker, and cloud-native development. I actively study modern AI practices, especially those involving generative models and autonomous agents.
+
+
+      I’m currently pursuing the IBM AI Engineering Professional Certificate to deepen my understanding of machine learning, deep learning, and AI deployment strategies. Alongside this, I study software development at Salo Region Vocational School, focusing on JavaScript-based frameworks and full-stack architecture.
+
+
+      I’m particularly interested in generative AI and machine learning, as well as web and cloud development . I’m always open to innovative opportunities in these areas and enjoy collaborating with others who are passionate about building the future of software.
+
+
+      Feel free to explore my portfolio to see the projects I’ve worked on, and don't hesitate to reach out if you are interested in collaborating or discussing potential opportunities!
 
     media:
       type: ImageBlock
@@ -71,53 +77,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -197,12 +156,10 @@ sections:
         label: Directus CMS
       - type: Label
         label: AWS
-      - type: Label 
+      - type: Label
         label: Docker
       - type: Label
         label: Python
-      - type: Label
-        label: C#
   - type: DividerSection
     styles:
       self:
@@ -239,16 +196,16 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-         **Current**  
+          **Current**  
 
-            * Lead Website Developer @ Psyche’s Royal Gaming
-                *	Managing a team of 10+ web developers in a large-scale project with over 60 participants.
-                *	Overseeing project coordination, ensuring efficient workflows, and aligning development with business goals.
-          
+             * Lead Website Developer @ Psyche’s Royal Gaming
+                 *	Managing a team of 10+ web developers in a large-scale project with over 60 participants.
+                 *	Overseeing project coordination, ensuring efficient workflows, and aligning development with business goals.
+           
 
 
-            * Entrepreneur & Freelance Developer  
-                *   LLM coding tasks via Outlier platform 
+             * Prompt Engineering
+                 *   LLM promting tasks via Outlier platform
         styles:
           self:
             textAlign: left
@@ -262,13 +219,15 @@ sections:
         text: |-
           **On going**
           * Graduating as a Software Developer in December 2025 @ Salo Region Vocational School.
-          
+
 
 
           **Completed**
 
+          * AI Agents and Agentic AI in Python: Powered by Generative AI
+
           * Coursera AWS Fundamentals (Technical Essentials, Migration, and Architecting Solutions).
-          
+
           * Coursera Nest.js Fundamentals.
         styles:
           self:
