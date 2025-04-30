@@ -60,7 +60,8 @@
                         "type": "HeroSection",
                         "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
                         "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
-                        "colors": "colors-f","actions": [],
+                        "colors": "colors-f",
+                        "actions": [],
                         "media": null,
                         "backgroundSize": "full",
                         "styles": {
@@ -106,7 +107,7 @@
                         "projects": [
                             "content/pages/projects/project-two.md",
                             "content/pages/projects/project-three.md",
-                            "content/pages/projects/project-one.md"
+                            "content/pages/projects/project-five.md"
                         ],
                         "styles": {
                             "self": {
@@ -257,8 +258,8 @@
                     {
                         "type": "HeroSection",
                         "colors": "colors-f",
-                        "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
-                        "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
+                        "title": "I'm a software developer, entrepreneur, and Ai enthusiast.",
+                        "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in Ai Engineering technologies. Check out my experiences and projects below!",
                         "actions": [],
                         "media": {
                             "type": "ImageBlock",

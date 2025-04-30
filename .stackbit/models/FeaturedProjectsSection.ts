@@ -57,7 +57,13 @@ export const FeaturedProjectsSectionModel: Model = {
                 type: 'reference',
                 models: ['ProjectLayout']
             },
-            default: ['content/pages/projects/project-three.md', 'content/pages/projects/project-two.md', 'content/pages/projects/project-one.md']
+            default: [
+                'content/pages/projects/project-three.md',
+                'content/pages/projects/project-four.md',
+                'content/pages/projects/project-five.md',
+                'content/pages/projects/project-two.md',
+                'content/pages/projects/project-one.md'
+            ]
         },
         {
             type: 'enum',

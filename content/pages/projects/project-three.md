@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PRG WEB PROJECT
 colors: colors-a
 date: '2024-05-06'
-client: Awesome client
+client: Psyche's Royal Gaming
 description: >-
   PRG ALT Zone 1.0 is a mobile game exploring human defense mechanisms in social interactions, developed with young gaming enthusiasts and accompanied by an educational package.
 
