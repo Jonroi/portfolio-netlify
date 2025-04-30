@@ -43,8 +43,8 @@
             "thumbnail": "images/hero-primary-image-right.png",
             "data": {
                 "colors": "colors-c",
-                "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
-                "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
+                "title": "I'm a software developer, AI enthusiast, and prompt engineer.",
+                "subtitle": "Specializing in full-stack development and generative AI, I use Python and JavaScript, along with modern frameworks and cloud platforms, to solve real-world problems. I’m constantly expanding my skills—especially in GenAI and LLM technologies. Explore my work and experience below!",
                 "text": null,
                 "media": {
                     "type": "ImageBlock",
@@ -93,8 +93,8 @@
             "thumbnail": "images/hero-secondary-image-left.png",
             "data": {
                 "colors": "colors-d",
-                "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
-                "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
+                "title": "I'm a software developer, AI enthusiast, and prompt engineer.",
+                "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in Ai Engineering technologies. Check out my experiences and projects below!",
 
                 "text": null,
                 "media": {

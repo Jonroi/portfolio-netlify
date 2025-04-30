@@ -13,9 +13,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I'm a software developer, entrepreneur, and cloud enthusiast.
+      I'm a software developer, entrepreneur, and Ai enthusiast.
     subtitle: >-
-      Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!
+      Driven by a passion for web and full-stack development, I am continuously expanding my expertise, particularly in AI engineering. Take a look at my experience and projects below.
     styles:
       self:
         height: auto
