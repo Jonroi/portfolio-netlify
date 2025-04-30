@@ -6,8 +6,11 @@
             "thumbnail": "images/hero-transparent-text.png",
             "data": {
                 "colors": "colors-f",
-                "title": "I'm a software developer, entrepreneur, and cloud enthusiast.",
-                "subtitle": "Passionate about building web and full-stack applications, I’m constantly expanding my skills—especially in cloud technologies. Check out my experience and projects below!",
+                "title": "I'm a software developer, AI enthusiast, and prompt engineer.",
+                "subtitle": {
+                    "title": "I'm a software developer, AI enthusiast, and prompt engineer.",
+                    "subtitle": "Specializing in full-stack development and generative AI, I use Python and JavaScript, along with modern frameworks and cloud platforms, to solve real-world problems. I’m constantly expanding my skills—especially in GenAI and LLM technologies. Explore my work and experience below!"
+                },
                 "text": null,
                 "media": null,
                 "actions": [],
